@@ -1,6 +1,6 @@
 SN Database Searcher
 
-# If you want to the Excel exporting option, you should download all aplication files.
+# If you want to the Excel exporting option, you should download all files.
 
 # If you don't want to export results to Excel, you could just download the file named "DBSearcher.exe".
 
