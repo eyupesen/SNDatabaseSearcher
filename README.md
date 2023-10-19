@@ -1,11 +1,11 @@
 
-# If you want the Excel exporting option, you should download all files.
+### If you want the Excel exporting option, you should download all files.
 
-# If you don't want to export results to Excel, you could just download the file named "DBSearcher.exe".
+### If you don't want to export results to Excel, you could just download the file named "DBSearcher.exe".
 
 
 
-# SN Database Searcher
+### SN Database Searcher
 
 Database Searcher is a cutting-edge program designed to facilitate 
 the search and retrieval of SQL tables, columns, and columns' extended properties in databases.
@@ -13,7 +13,7 @@ the search and retrieval of SQL tables, columns, and columns' extended propertie
 It serves as a one-stop solution for database administrators, 
 developers, and data analysts, helping them to discover the desired information swiftly and with ease.
 
-# Key Features
+### Key Features
 
 Precise Search: 
 Database Searcher enables users to find specific columns, tables, or extended properties with pinpoint accuracy, reducing the time spent on manual searches.
@@ -30,7 +30,7 @@ Database Searcher presents search results in a clear and organized manner, provi
 Lightweight and Fast: 
 Designed with optimization in mind, Database Searcher is lightweight and operates at impressive speeds, ensuring a smooth and seamless user experience.
 
-# Benefits
+### Benefits
 
 Time Efficiency: 
 Database administrators can save substantial time by employing Database Searcher's advanced search capabilities, increasing overall productivity and resource allocation.
