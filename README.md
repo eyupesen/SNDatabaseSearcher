@@ -1,11 +1,10 @@
+>   
+> ### If you want the Excel exporting option, you should download all files.
+>   
+> ### If you don't want to export results to Excel, you could just download the file named "DBSearcher.exe".
+>     
 
-### If you want the Excel exporting option, you should download all files.
-
-### If you don't want to export results to Excel, you could just download the file named "DBSearcher.exe".
-
-
-
-### SN Database Searcher
+## SN Database Searcher
 
 Database Searcher is a cutting-edge program designed to facilitate 
 the search and retrieval of SQL tables, columns, and columns' extended properties in databases.
@@ -13,41 +12,41 @@ the search and retrieval of SQL tables, columns, and columns' extended propertie
 It serves as a one-stop solution for database administrators, 
 developers, and data analysts, helping them to discover the desired information swiftly and with ease.
 
-### Key Features
+## Key Features
 
-Precise Search: 
+**Precise Search:**   
 Database Searcher enables users to find specific columns, tables, or extended properties with pinpoint accuracy, reducing the time spent on manual searches.
 
-Customizable Filters: 
+**Customizable Filters:**   
 The program allows users to apply filters based on various parameters, such as data types, column names, table names, and extended properties of columns, making it highly versatile for different database structures and preferences.
 
-Intuitive User Interface: 
+**Intuitive User Interface:**   
 The intuitive and user-friendly interface ensures that users, regardless of their technical expertise, can effortlessly navigate and leverage the program's functionalities.
 
-Detailed Results: 
+**Detailed Results:**   
 Database Searcher presents search results in a clear and organized manner, providing comprehensive information about the tables, columns, and columns' associated extended properties.
 
-Lightweight and Fast: 
+**Lightweight and Fast:**   
 Designed with optimization in mind, Database Searcher is lightweight and operates at impressive speeds, ensuring a smooth and seamless user experience.
 
-### Benefits
+## Benefits
 
-Time Efficiency: 
+**Time Efficiency:**   
 Database administrators can save substantial time by employing Database Searcher's advanced search capabilities, increasing overall productivity and resource allocation.
 
-Improved Accuracy: 
+**Improved Accuracy:**   
 With precise search results, users can confidently retrieve the exact data they need, minimizing errors and inaccuracies in data analysis and decision-making processes.
 
-Streamlined Database Management: 
+**Streamlined Database Management:**   
 Simplify your data management tasks with Database Searcher, enhancing the efficiency of your database-related operations.
 
-# In Conclution,
+## In Conclution,
 
 SN Database Searcher's unparalleled search capabilities, customizable filters, and intuitive user interface make it an indispensable asset in the field of data management.
 Whether you are a seasoned database administrator or a data enthusiast, Database Searcher is your ultimate companion for navigating and discovering SQL columns, tables, and columns' extended properties efficiently and accurately.
 
 
-# End-User License Agreement
+## End-User License Agreement
 
    This End-User License Agreement ("Agreement") constitutes an agreement for
    the use of the application named "SN Database Searcher" ("Application") 
